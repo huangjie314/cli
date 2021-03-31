@@ -1,0 +1,24 @@
+{
+  "name": "t8t-cli",
+  "version": "0.0.3",
+  "description": "to8to-cli",
+  "main": "index.js",
+  "bin": {
+    "t8t-cli": "bin/index.js"
+  },
+  "keywords": [
+    "t8t-cli"
+  ],
+  "author": "huangjie",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.1",
+    "ejs": "^3.1.6",
+    "execa": "^5.0.0",
+    "fs-extra": "^9.0.1",
+    "globby": "^11.0.2",
+    "inquirer": "^8.0.0",
+    "ora": "^5.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
