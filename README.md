@@ -16,11 +16,12 @@ Commands:
   help [command]    display help for command
 ---
 
-```
+
 npm dev
+
 npm build
+
 npm build --report
 
-```
 
 ```
